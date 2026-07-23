@@ -16,8 +16,9 @@ while j < 6:
     print(j)
     if j==3:
         break
-    j+=1   
+    j+=1
 
+    
 #continue statement
    #continue stop the current iteration and continue with next.
 
